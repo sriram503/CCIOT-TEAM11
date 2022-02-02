@@ -1,0 +1,6 @@
+CALCULATION OF FOCAL LENGTH USING IOT
+
+our project contains two set of codes one is for controlling the stepper driver through NodeMCU .It should be dumped through NodeMCU 1.0(ESP-12E MODULE) (BOARD) 
+and the other is for controlling camera module and displaying the video of the screen in the dashboard and it should be dumped through ESP32 Wrover MODULE(BOARD)
+
+References https://github.com/passion-tech/Hello-tech/blob/master/Node_Mcu_with_L298.ino
